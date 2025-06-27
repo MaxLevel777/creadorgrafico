@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Chart Maker",
+  "description": "A web application to create, customize, and export interactive charts. Users can input data, select chart types, choose colors, and export their creations as PNG or PDF files.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
