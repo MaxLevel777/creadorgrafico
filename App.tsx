@@ -1,5 +1,5 @@
 import React, { useState, useCallback, useRef, useEffect } from 'react';
-import { InputPanel } from './components/InputPanel';
+import InputPanel from './components/InputPanel';
 import { ChartDisplay } from './components/ChartDisplay';
 import { DataItem, ChartOptions, ChartType } from './types';
 import { INITIAL_DATA_ITEMS, DEFAULT_CHART_COLOR } from './constants';
